@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <podatciLogIn Ime="Admin" Password="Admin1"></podatciLogIn>
+  <podatciLogIn Ime="Korisnik" Password="Korisnik1"></podatciLogIn>
+  <podatciLogIn Ime="a" Password="a"></podatciLogIn>
+</data>

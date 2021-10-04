@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <SviPutniNalozi>
+    <putniNalog Rbr="1" ime_i_prezime="Ivica Ivic" vrstaPrijevoza="Osobni automobil" polaziste="Zagreb" odrediste="Osijek" datum_o="21/08/2019 08:00" datum_p="21/08/2019 10:35" trajanje="2 sata i 35 minuta">
+    </putniNalog>
+    <putniNalog Rbr="2" ime_i_prezime="Antun Radic" vrstaPrijevoza="Osobni automobil" polaziste="Osijek" odrediste="Zagreb" datum_o="18/09/2019 10:00" datum_p="18/09/2019 12:50" trajanje="2 sata i 50 minuta">
+    </putniNalog>
+    <putniNalog Rbr="3" ime_i_prezime="Karlo Markovic" vrstaPrijevoza="Sluzbeni automobil" polaziste="Zagreb" odrediste="Kutina" datum_o="19/09/2019 07:00" datum_p="19/09/2019 08:20" trajanje="1 sat i 20 minuta">
+    </putniNalog>
+    <putniNalog Rbr="4" ime_i_prezime="Ivica Ivic" vrstaPrijevoza="Vlak" polaziste="Zagreb" odrediste="Slatina" datum_o="22/8/2019 10:00" datum_p="22/08/2019 13:00" trajanje="3 sata i 0 minuta">
+    </putniNalog>
+    <putniNalog Rbr="5" ime_i_prezime="Antun Radic" vrstaPrijevoza="Sluzbeni automobil" polaziste="Slatina" odrediste="Osijek" datum_o="01/01/2020 12:15" datum_p="02/01/2020 13:00" trajanje="1 dan, 0 sati i 45 minuta." />
+    
+    <putniNalog Rbr="6" ime_i_prezime="Karlo Markovic" vrstaPrijevoza="Autobus" polaziste="Virovitica" odrediste="Zagreb" datum_o="03/01/2020 08:00" datum_p="03/01/2020 10:30" trajanje="2 sata i 30 minuta." />
+
+    <putniNalog Rbr="7" ime_i_prezime="Marko Rebic" vrstaPrijevoza="Sluzbeni automobil" polaziste="Virovitica" odrediste="Zagreb" datum_o="04/01/2020 08:00" datum_p="04/01/2020 10:50" trajanje="2 sata i 50 minuta." />
+
+    <putniNalog Rbr="8" ime_i_prezime="Jakov Petak" vrstaPrijevoza="Sluzbeni automobil" polaziste="Osijek" odrediste="Zagreb" datum_o="05/01/2020 08:00" datum_p="05/01/2020 11:20" trajanje="3 sata i 20 minuta." />
+
+    <putniNalog Rbr="9" ime_i_prezime="Karlo Majer" vrstaPrijevoza="Autobus" polaziste="Zagreb" odrediste="Rijeka" datum_o="13/01/2020 08:00" datum_p="13/01/2020 11:20" trajanje="3 sata i 20 minuta." />
+
+    <putniNalog Rbr="9" ime_i_prezime="Ivan Ivic" vrstaPrijevoza="Vlak" polaziste="Zagreb" odrediste="Rijeka" datum_o="16/01/2020 10:10" datum_p="16/01/2020 13:20" trajanje="3 sata i 10 minuta." />
+
+  </SviPutniNalozi>
+  <SviZaposlenici>
+    <Zaposlenik id="1" ime_i_prezime="Ivica Ivic" OIB="12345678901">
+    </Zaposlenik>
+    <Zaposlenik id="2" ime_i_prezime="Antun Radic" OIB="12345678902">
+    </Zaposlenik>
+    <Zaposlenik id="3" ime_i_prezime="Karlo Markovic" OIB="12345678903">
+    </Zaposlenik>
+    <Zaposlenik id="4" ime_i_prezime="Marko Rebic" OIB="12345678904">
+    </Zaposlenik>
+    <Zaposlenik id="5" ime_i_prezime="Jakov Petak" OIB="12345678905" />
+    
+    <Zaposlenik id="6" ime_i_prezime="Karlo Majer" OIB="12345678906" />
+    
+    <Zaposlenik id="7" ime_i_prezime="Ivan Ivic" OIB="12345678907" />
+  </SviZaposlenici>
+  <TipPrijevoza>
+    <tip ID="1" vrsta="Osobni automobil">
+    </tip>
+    <tip ID="2" vrsta="Sluzbeni automobil">
+    </tip>
+    <tip ID="3" vrsta="Autobus">
+    </tip>
+    <tip ID="4" vrsta="Vlak">
+    </tip>
+  </TipPrijevoza>
+</data>

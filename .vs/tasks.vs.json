@@ -1,0 +1,20 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-Putni_Nalozi",
+      "appliesTo": "VSMTI-PUTNI-NALOZI/Putni_Nalozi.xml",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-Putni_Nalozi",
+      "appliesTo": "VSMTI-PUTNI-NALOZI/Putni_Nalozi.xml",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-Putni_Nalozi",
+      "appliesTo": "VSMTI-PUTNI-NALOZI/Putni_Nalozi.xml",
+      "type": "launch"
+    }
+  ]
+}
